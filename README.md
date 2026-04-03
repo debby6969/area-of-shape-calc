@@ -1,1 +1,2 @@
-# area-of-shape-calc
+# area of shape calculator
+only works for regular polygons
